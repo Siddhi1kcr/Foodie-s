@@ -12,6 +12,9 @@
     width: 150px;
     margin-bottom: 15px;
 }
+.image{
+    cursor: pointer;
+}
 .add-product-name p{
     margin-bottom: 10px;
 }
